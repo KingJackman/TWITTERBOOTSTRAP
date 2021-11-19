@@ -1,0 +1,19 @@
+.bluey{
+background-color: #0d6efd
+;
+}
+.greenie{
+background-color:#198754
+;
+}
+body{
+    background-image:url(../images/wall-e.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.one{
+    margin:auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
